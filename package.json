@@ -1,0 +1,29 @@
+{
+  "name": "weather-master",
+  "version": "1.0.0",
+  "description": "A weather SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelvinKey/weather.git"
+  },
+  "author": [
+    {
+      "name": "kelvinkey",
+      "email": "kelvinkeyss@yahoo.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KelvinKey/weather/issues"
+  },
+  "homepage": "https://github.com/KelvinKey/weather#readme",
+  "dependencies": {
+    "https": "^1.0.0",
+    "unit": "^1.4.3-0",
+    "xml2js": "^0.4.19"
+  }
+}
