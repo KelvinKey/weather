@@ -23,7 +23,7 @@
   "homepage": "https://github.com/KelvinKey/weather#readme",
   "dependencies": {
     "https": "^1.0.0",
-    "unit": "^1.4.3-0",
-    "xml2js": "^0.4.19"
+    "querystring": "^0.2.0",
+    "unit": "^1.4.3-0"
   }
 }
