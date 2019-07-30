@@ -145,8 +145,10 @@ response = weather.getLiveWeather('上海', 'xml');
 
 ## 参考
 
-- [高德开放平台](https://lbs.amap.com/dev/id/newuser)
+```
+ [高德开放平台](https://lbs.amap.com/dev/id/newuser)
 
+```
 ## License
 
 MIT
